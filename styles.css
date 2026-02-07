@@ -1,0 +1,29 @@
+/* State Styles */
+.my-button {
+          margin-left: 525px;
+
+    background-color: lightblue;
+    padding: 10px 20px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+     }
+
+     .my-button:hover {
+        background-color: #0056b3;
+        color: #e0e0e0;
+     }
+
+
+ body { margin-left: 400px;
+              margin-right: 400px;
+             }
+       .temp {text-align: center;
+              background-color: pink;
+              font-size: 20pt;
+             }
+
+
+* { 
+	color: blue;
+	margin: 0;
+	padding: 0;
+   }
